@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I'm Deepak, a fullstack developer👋.</h3>
+<h2 align="center">Hi! I'm Deepak, a fullstack developer👋.</h2>
 
 ###
 
@@ -65,4 +65,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/github-snake.svg" />
 </picture>
+
 ###
