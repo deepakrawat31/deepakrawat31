@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Deepak and I'm a fullstack developer, from India.</h3>
+<h3 align="center">Hi! I'm Deepak, a fullstack developer👋.</h3>
 
 ###
 
@@ -9,6 +9,7 @@
 
 ###
 
+<h5 align="left">🖥️Tech Stack:</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
   <img width="12" />
@@ -59,6 +60,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deepakrawat31/deepakrawat31/output/github-snake.svg" />
+</picture>
 ###
